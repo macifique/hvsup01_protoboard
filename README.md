@@ -2,7 +2,7 @@
 Proto board for HVSUP01
 
 This is a small 90mm x 60mm board that demonstrates the capabilities of he HVSUP01 sensor. 
-The board acts as a batery uperated IOT device using an ESP-07 or ESP-12 low cost Wifi module.
+The board acts as a battery operated IOT device using an ESP-07 or ESP-12 low cost Wifi module.
 
 It is powered by an ER17505 Lithium-thinoyl Chloride battery from Eve. The battery is directly soldered to the board.
 
